@@ -1,0 +1,642 @@
+body {
+    display: block;
+    width: 1200px;
+    height: 4579px;
+    background-color: #FFFFFF;
+}
+
+header {
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    padding-top: -316px;
+    padding-left: -472px;
+
+}
+
+header img {
+    width: 155px;
+    height: 57px;
+    margin-top: 22px;
+    margin-left: 32px;
+}
+
+#link1 {
+    width: 79px;
+    height: 19px;
+    margin-top: 41px;
+    margin-left: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-style: normal;
+    text-align: left;
+    vertical-align: top;
+}
+
+#link2 {
+    width: 112px;
+    height: 19px;
+    margin-top: 41px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-style: normal;
+    text-align: left;
+    vertical-align: top;
+}
+
+#link3 {
+    width: 120.5px;
+    height: 19px;
+    margin-top: 41px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-style: normal;
+    text-align: left;
+    vertical-align: top;
+}
+
+#botao {
+    width: 170px;
+    height: 47px;
+    background-color: #0CA778;
+    margin-top: 27px;
+    margin-left: 392px;
+    border-radius: 8px;
+}
+
+#texto_botao {
+    width: 114.4px;
+    height: 19px;
+    background-color: #0CA778;
+    margin-top: 14px;
+    margin-left: 29px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    font-style: normal;
+    text-align: left;
+    vertical-align: top;
+    color: #FFFFFF;
+}
+
+#banner {
+    display: flex;
+    width: 1198px;
+    height: 650px;
+    background-color: aqua;
+}
+
+#retangulo {
+    display: flex;
+    position: absolute;
+    width: 592px;
+    height: 236px;
+    margin: 402px 47px 12px 559px;
+    border-radius: 8px;
+    opacity: 80%;
+    background-color: #FFFFFF;
+}
+
+#texto_cima {
+    position: absolute;
+    width: 355.7px;
+    height: 48px;
+    margin: 36px 112px 152px 128px;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 48px;
+    text-align: left;
+    vertical-align: top;
+    color: #0CA778;
+
+}
+
+#texto_baixo {
+    position: absolute;
+    width: 449.5px;
+    height: 116px;
+    margin: 84px 73px 36px 73px;
+    font-family: sans-serif;
+    font-size: 96px;
+    font-weight: 800px;
+    line-height: 116px;
+    text-align: left;
+    vertical-align: top;
+    color: #244242;
+}
+
+
+#sessao1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77.45px;
+    text-align: right;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-right: 438px;
+    color: #244242;
+    margin-left: 434px;
+    margin-top: 100px;
+}
+
+#servicos {
+    display: flex;
+    width: 1127px;
+    height: 487px;
+    margin-left: 41px;
+    margin-top: 100px;
+    background-color: white;
+}
+
+#servico1 {
+    border: 2px solid grey;
+    border-radius: 8px;
+    width: 320px;
+    height: 480px;
+}
+
+#servico2 {
+    border: 2px solid grey;
+    border-radius: 8px;
+    width: 320px;
+    height: 480px;
+    margin-left: 84px;
+}
+
+#servico3 {
+    border: 2px solid grey;
+    border-radius: 8px;
+    width: 320px;
+    height: 480px;
+    margin-left: 83px;
+}
+
+#titulo1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.29px;
+    text-align: left;
+    vertical-align: top;
+    border-spacing: 36px;
+    margin-left: 84px;
+    color: #244242;
+}
+
+#texto1 {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    color: #244242;
+    font-style: normal;
+    vertical-align: top;
+    margin-left: 25px;
+    margin-right: 24px;
+}
+
+#titulo2 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.29px;
+    text-align: left;
+    vertical-align: top;
+    border-spacing: 36px;
+    margin-left: 84px;
+    color: #244242;
+}
+
+#texto2 {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    color: #244242;
+    font-style: normal;
+    vertical-align: top;
+    margin-left: 25px;
+    margin-right: 24px;
+}
+
+#titulo3 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.29px;
+    text-align: left;
+    vertical-align: top;
+    border-spacing: 36px;
+    margin-left: 84px;
+    color: #244242;
+}
+
+#texto3 {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    color: #244242;
+    font-style: normal;
+    vertical-align: top;
+    margin-left: 25px;
+    margin-right: 24px;
+}
+
+#sessao2 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77.45px;
+    text-align: right;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-right: 387px;
+    color: #244242;
+}
+
+#imagem1 {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 38px;
+    margin-right: 35px;
+    width: 1127px;
+    height: 456px;
+}
+
+#imagem1 img {
+    width: 526px;
+    height: 456px;
+    border-radius: 8px;
+}
+
+#primeiroh1 {
+    position: absolute;
+    margin-left: 738px;
+    width: 389px;
+    height: 44px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#primeirotexto {
+    width: 560px;
+    height: 392px;
+    margin-left: 41px;
+    margin-top: 64px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 29px;
+    text-align: right;
+    vertical-align: top;
+    color: #244242;
+}
+
+#imagem2 {
+    display: flex;
+    margin-top: 112px;
+    margin-left: 38px;
+    margin-right: 51px;
+    width: 1111px;
+    height: 456px;
+}
+
+#segundoh1 {
+    width: 389px;
+    height: 44px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#segundotexto {
+    position: absolute;
+    margin-top: 61px;
+    width: 560px;
+    height: 392px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 29px;
+    text-align: left;
+    vertical-align: top;
+    color: #244242;
+
+}
+
+#imagem2 img {
+    position: absolute;
+    margin-left: 585px;
+    width: 526px;
+    height: 456px;
+    border-radius: 8px;
+}
+
+#sessao3 {
+    margin-top: 100px;
+    margin-right: 363px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77.45px;
+    text-align: right;
+    vertical-align: top;
+    color: #244242;
+}
+
+#equipe {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+#equipe img {
+    width: 246px;
+    height: 288px;
+    border-radius: 8px;
+}
+
+#equipelinha2 {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 38px;
+}
+
+#equipelinha2 img {
+    width: 246px;
+    height: 288px;
+    border-radius: 8px;
+}
+
+#jose {
+    margin-left: 38px;
+
+}
+
+.equipenome {
+    margin-left: 82px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.29px;
+    color: #244242;
+}
+
+.equipefuncao {
+    margin-left: 96px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    vertical-align: top;
+    color: #244242;
+}
+
+#funcaoregina {
+    margin-left: 42px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    vertical-align: top;
+}
+
+#fernanda {
+    margin-left: 60px;
+}
+
+#leandro {
+    margin-left: 60px;
+}
+
+.equipenome2 {
+    margin-left: 72px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: -0.29px;
+    color: #244242;
+}
+
+.equipefuncao2 {
+    margin-left: 61px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    vertical-align: top;
+    color: #244242;
+}
+
+#penultimaparte {
+    display: flex;
+    margin-top: 200px;
+    width: 1200px;
+    height: 384px;
+    background-color: #f5f5f5;
+}
+
+#servicosfooter {
+    width: 123px;
+    height: 29px;
+    margin-top: 70px;
+    margin-right: 1035px;
+    margin-left: 42px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    vertical-align: top;
+}
+
+#footerleftbottom {
+    display: block;
+    position: absolute;
+    margin-top: 123px;
+    margin-right: 932px;
+    margin-left: 37px;
+    width: 231px;
+    height: 132px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+}
+
+#painel {
+    width: 200px;
+    height: 20px;
+}
+
+#site {
+    width: 170px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#aplicativos {
+    width: 180px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#footermeio {
+    position: absolute;
+    margin-top: 70px;
+    margin-right: 683px;
+    margin-left: 463px;
+    width: 54px;
+    height: 29px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    vertical-align: top;
+}
+
+#footermeiobottom {
+    position: absolute;
+    width: 231px;
+    height: 174px;
+    margin-top: 123px;
+    margin-right: 506px;
+    margin-left: 463px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#click1 {
+    width: 170px;
+    height: 20px;
+}
+
+#click2 {
+    width: 170px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#click3 {
+    width: 170px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#click4 {
+    width: 170px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#redessociais {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 889px;
+    margin-right: 127px;
+    width: 188.1px;
+    height: 29px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    vertical-align: top;
+}
+
+#instagram {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 129px;
+    margin-left: 889px;
+    margin-right: 275px;
+}
+
+#facebook {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 129px;
+    margin-left: 951px;
+    margin-right: 213px;
+}
+
+#linkedin {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 129px;
+    margin-left: 1013px;
+    margin-right: 151px;
+}
+
+#twitter {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 129px;
+    margin-left: 1075px;
+    margin-right: 89px;
+}
+
+#rodape {
+    display: flex;
+    width: 1200px;
+    height: 132px;
+    background-color: #244242;
+}
+
+#textorodape {
+    width: 720px;
+    height: 31px;
+    margin: 50px 240px 51px 240px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    color: #FFFFFF;
+    background-color: #244242;
+}
